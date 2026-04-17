@@ -1,0 +1,7 @@
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\obj\Debug\Lab2(Control_statement).csproj.AssemblyReference.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\obj\Debug\Lab2(Control_statement).csproj.CoreCompileInputs.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\bin\Debug\Lab2(Control_statement).exe.config
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\bin\Debug\Lab2(Control_statement).exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\bin\Debug\Lab2(Control_statement).pdb
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\obj\Debug\Lab2(Control_statement).exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab2(Control_statement)\Lab2(Control_statement)\obj\Debug\Lab2(Control_statement).pdb

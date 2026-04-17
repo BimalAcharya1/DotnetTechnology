@@ -1,0 +1,7 @@
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\bin\Debug\Lab3(Array_and_Parameters).exe.config
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\bin\Debug\Lab3(Array_and_Parameters).exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\bin\Debug\Lab3(Array_and_Parameters).pdb
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\obj\Debug\Lab3(Array_and_Parameters).csproj.AssemblyReference.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\obj\Debug\Lab3(Array_and_Parameters).csproj.CoreCompileInputs.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\obj\Debug\Lab3(Array_and_Parameters).exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab3(Array_and_Parameters)\Lab3(Array_and_Parameters)\obj\Debug\Lab3(Array_and_Parameters).pdb
