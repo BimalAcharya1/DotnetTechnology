@@ -1,0 +1,14 @@
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\bin\Debug\Lab5.exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\obj\Debug\Lab5.exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Concept of Abstract class, Method, Inheritance, Property, and Indexer\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\bin\Debug\Lab5.exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\obj\Debug\Lab5.exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab5(Concept of Abstract class, Method, Inheritance, Property, and Indexer)\Lab5\obj\Debug\Lab5.pdb
