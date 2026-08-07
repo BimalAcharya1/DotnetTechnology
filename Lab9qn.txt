@@ -1,0 +1,7 @@
+1. Write a C# program to create a web form that takes two user input number and multiplies them and displays after a button is clicked.
+
+2. Write a C# program to create a web form that takes registration info from user and sends the information to another file that displays the information.
+
+3. Write a C# program to create a web form that validates the form i.e. Range validator, required field validator, and regular expression validator.
+
+4. Write a C# program to create a web form that validates the form i.e. Range validator, required field validator, custom validator and regular expression validator.
