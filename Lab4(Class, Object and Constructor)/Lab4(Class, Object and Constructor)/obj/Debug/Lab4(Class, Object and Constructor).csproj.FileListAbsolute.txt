@@ -1,0 +1,7 @@
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\bin\Debug\Lab4(Class, Object and Constructor).exe.config
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\bin\Debug\Lab4(Class, Object and Constructor).exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\bin\Debug\Lab4(Class, Object and Constructor).pdb
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\obj\Debug\Lab4(Class, Object and Constructor).csproj.AssemblyReference.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\obj\Debug\Lab4(Class, Object and Constructor).csproj.CoreCompileInputs.cache
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\obj\Debug\Lab4(Class, Object and Constructor).exe
+C:\Users\Bimal Acharya\Desktop\Dotnet labworks\Lab4(Class, Object and Constructor)\Lab4(Class, Object and Constructor)\obj\Debug\Lab4(Class, Object and Constructor).pdb
